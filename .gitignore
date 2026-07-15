@@ -1,0 +1,22 @@
+# 前端
+frontend/node_modules/
+frontend/.env
+frontend/.env.local
+frontend/dist/
+frontend/build/
+frontend/.vite/
+
+# 后端 (Java/Spring Boot)
+backend/target/
+backend/.mvn/
+backend/mvnw
+backend/mvnw.cmd
+backend/*.log
+
+# 通用
+.DS_Store
+*.log
+*.tmp
+.idea/
+.vscode/
+*.iml
