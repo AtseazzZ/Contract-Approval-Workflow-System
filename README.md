@@ -1,6 +1,6 @@
 # 企业级权限管理系统（合同审批流）
 
-> 面试作业 Demo | 技术栈：Spring Boot 2.7 + Vue 3 + MyBatis-Plus + MySQL
+>  Demo | 技术栈：Spring Boot 2.7 + Vue 3 + MyBatis-Plus + MySQL
 
 ## 快速启动
 
